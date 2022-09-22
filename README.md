@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+[![Anson's GitHub stats](https://github-readme-stats.vercel.app/api?username=BassoMC1&show_icons=true&layout=compact&theme=dark)](https://github.com/BassoMC1)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BassoMC1&layout=compact&theme=dark)](https://github.com/BassoMC1)
+
 <!--
 **BassoMC1/BassoMC1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
