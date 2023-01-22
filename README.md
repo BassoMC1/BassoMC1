@@ -1,6 +1,6 @@
 ### Hello! Welcome to my profile😎
 
-❤ I’m currently working on **Gamehub Discord bot**
+❤ I’m currently working on **Gamehub Discord Bot And Gamehub Dashboard**
 
 🧐 I’m currently learning **Typescript**
 
