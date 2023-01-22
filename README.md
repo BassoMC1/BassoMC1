@@ -1,8 +1,8 @@
 ### Hello! Welcome to my profile😎
 
-❤ I’m currently working on **Gamehub Discord Bot And Gamehub Dashboard**
+❤ I’m currently working on **Gamehub Discord Bot And Dashboard for Gamehub Discord Bot**
 
-🧐 I’m currently learning **Typescript**
+🧠I’m currently learning **Typescript**
 
 📫 How to reach me **Discord: BassoMC#4832**
 
